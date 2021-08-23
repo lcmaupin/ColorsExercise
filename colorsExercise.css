@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(25, 25, 115);
+    background-color: red;
+}
+h2 {
+    color: #060;
+    background-color: orange;
+}
+h3 {
+    color: #1E90FF;
+    background-color: yellow;
+}
+h4 {
+    color: #822B;
+    background-color: green;
+}
+h5 {
+    color: #CD5C5CFA;
+    background-color: blue;
+}
+h6 {
+    color: crimson;
+    background-color: indigo;
+}
+p {
+    color: rgb(255, 127, 77);
+    background-color: darkviolet;
+}
+div {
+    border: 5px solid;
+    color: green;
+}
+div li {
+    color: peachpuff;
+}
+span li {
+    color: hotpink;
+}
